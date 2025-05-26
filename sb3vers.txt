@@ -1,2 +1,2 @@
 2
-https://github.com/Seedorina/sb3sw/releases/download/v1/sb3-v2.AppImage
+https://github.com/Seedorina/sb3sw/releases/download/v2/sb3-v2.AppImage
