@@ -1,3 +1,2 @@
-7
-https://github.com/Seedorina/sb3sw/releases/download/v7/sb3-v7.AppImage
-Releasing v8
+8
+https://github.com/Seedorina/sb3sw/releases/download/v8/sb3-v8.AppImage
