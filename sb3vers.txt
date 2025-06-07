@@ -1,2 +1,3 @@
 6
 https://github.com/Seedorina/sb3sw/releases/download/v6/sb3-v6.AppImage
+Releasing V7
