@@ -1,2 +1,3 @@
 9
 https://github.com/Seedorina/sb3sw/releases/download/v9/sb3-v9.AppImage
+Releasing v10
