@@ -1,2 +1,3 @@
 16
 https://github.com/Seedorina/sb3sw/releases/download/v16/sb3-v16.AppImage
+Releasing v17
