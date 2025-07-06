@@ -1,2 +1,3 @@
 18
 https://github.com/Seedorina/sb3sw/releases/download/v18/sb3-v18.AppImage
+Releasing v19
