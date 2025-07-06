@@ -1,3 +1,2 @@
-13
-https://github.com/Seedorina/sb3sw/releases/download/v13/sb3-v13.AppImage
-Releasing v14
+14
+https://github.com/Seedorina/sb3sw/releases/download/v14/sb3-v14.AppImage
