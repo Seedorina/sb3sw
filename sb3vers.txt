@@ -1,2 +1,3 @@
 22
 https://github.com/Seedorina/sb3sw/releases/download/v22/sb3-v22.AppImage
+Releasing 23
