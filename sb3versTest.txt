@@ -1,3 +1,2 @@
-29
-https://github.com/Seedorina/sb3sw/releases/download/v29/sb3-v29.AppImage
-rele 30
+30
+https://github.com/Seedorina/sb3sw/releases/download/v30/sb3-v30.AppImage
