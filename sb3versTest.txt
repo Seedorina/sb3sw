@@ -1,2 +1,3 @@
 28
 https://github.com/Seedorina/sb3sw/releases/download/v28/sb3-v28.AppImage
+Releasing v29
