@@ -1,2 +1,3 @@
 31
 https://github.com/Seedorina/sb3sw/releases/download/v31/sb3-v31.AppImage
+Releasing 32
