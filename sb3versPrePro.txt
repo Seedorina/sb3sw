@@ -1,2 +1,4 @@
 24
 https://github.com/Seedorina/sb3sw/releases/download/v24/sb3-v24.AppImage 
+
+Releasing v33
