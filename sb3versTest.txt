@@ -1,4 +1,4 @@
-33
-https://github.com/Seedorina/sb3sw/releases/download/v33/sb3-v33.AppImage
-
+34
+https://github.com/Seedorina/sb3sw/releases/download/v34/sb3-v34.AppImage
+sha256:1562306a7353542886cf3a2226d21e92872312be2b3fd6dd2e6bdabff351717f
 v34: Commit 9bf0ccb
