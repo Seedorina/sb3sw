@@ -1,3 +1,4 @@
 33
 https://github.com/Seedorina/sb3sw/releases/download/v33/sb3-v33.AppImage
 
+v34: Commit 9bf0ccb
