@@ -1,4 +1,4 @@
 35
 https://github.com/Seedorina/sb3sw/releases/download/v35/sb3-v35.AppImage
 sha256:0feb930cc8b83f957836867640ef72dc5abda6e18de6268d5ae8de738d5b620b
-v35: Commit f242398
+v36: Commit c2aaf65
