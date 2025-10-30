@@ -1,4 +1,4 @@
 24
-https://github.com/Seedorina/sb3sw/releases/download/v24/sb3-v24.AppImage 
+https://github.com/Seedorina/sb3sw/releases/download/v24/sb3-v24.AppImage
 8a965959f215722e08cd7d55f7009530fcb452700763da3579476e6556eebf40
 v24: Commit 194da2f
