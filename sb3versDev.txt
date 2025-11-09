@@ -2,3 +2,4 @@
 https://github.com/Seedorina/sb3sw/releases/download/v49/sb3-v49.AppImage
 134b375d8190729f440e26309c2b9cb12b34dad4655d52cf9e417a09d121ee9b
 v49: Commit 73849e8
+Releasing 50
