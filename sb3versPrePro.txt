@@ -1,4 +1,4 @@
-47
-https://github.com/Seedorina/sb3sw/releases/download/v47/sb3-v47.AppImage
-f853798a5e7c749bc1113eaff82b31115b1fcd76aa36bd2e6a05cb82dd3328d4
-v47: Commit 8d456ee
+53
+https://github.com/Seedorina/sb3sw/releases/download/v53/sb3-v53.AppImage
+782e2e2ceea4e1ddbd5c8dc17dc23ee721f129ed51a53abbe6cba5996900c330
+v53: Commit defaebb
