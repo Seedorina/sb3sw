@@ -1,4 +1,4 @@
 62
 https://github.com/Seedorina/sb3sw/releases/download/v62/sb3-v62.AppImage
 0820ed12f40faff036d6dd76e6ce08a5d7562fc2ec6b3f46e42850b2df19e136
-v62: Commit 660dbaf
+v63: d94c24a
