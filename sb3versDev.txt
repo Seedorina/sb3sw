@@ -1,4 +1,4 @@
 66
 https://github.com/Seedorina/sb3sw/releases/download/v66/sb3-v66.AppImage
 1da36695d0880bba3b0a249dd974221a73f1345fa3426bfcc50aa3841e6f0eb1
-v66: f1219dc
+v66: 5d484a5
