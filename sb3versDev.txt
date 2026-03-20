@@ -1,4 +1,4 @@
 68
 https://github.com/Seedorina/sb3sw/releases/download/v68/sb3-v68.AppImage
 025f825e66d717105cb50c1a3bcdd5fef4b3e19305e51e76fa48b9908be131bf
-v69: fe48f63
+v69: 32014df
