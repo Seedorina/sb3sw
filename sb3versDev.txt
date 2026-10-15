@@ -2,3 +2,4 @@
 https://github.com/Seedorina/sb3sw/releases/download/v71/sb3-v71.AppImage
 efbf7a7fb2ae28784b5c3be2619cbe59abf958e6c7bf63f5a49871788ef6f770
 v71: d5eca0a
+r72
