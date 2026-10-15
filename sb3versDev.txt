@@ -1,5 +1,4 @@
-71
-https://github.com/Seedorina/sb3sw/releases/download/v71/sb3-v71.AppImage
-efbf7a7fb2ae28784b5c3be2619cbe59abf958e6c7bf63f5a49871788ef6f770
-v71: d5eca0a
-r72
+72
+https://github.com/Seedorina/sb3sw/releases/download/v72/sb3-v72.AppImage
+1a3a63f17ef27ab09384a1e61eeeb0f82aba29bb317a57e3b9b5a5ee60a6a4e9
+v72: a941527
